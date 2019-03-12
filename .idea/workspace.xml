@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="f5a26532-58fb-45a6-abfb-edb03280ea25" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/anotherone" beforeDir="false" afterPath="$PROJECT_DIR$/anotherone" afterDir="false" />
     </list>
+=======
+    <list default="true" id="f5a26532-58fb-45a6-abfb-edb03280ea25" name="Default Changelist" comment="" />
+>>>>>>> b4308e86e976da1f8391046887d6a01a76ba3f35
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +20,7 @@
     <session id="-765871618">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -169,7 +174,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="853" y="233" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22189993" />
